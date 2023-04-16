@@ -55,4 +55,4 @@ The following assessment will test your understanding of the JavaScript basics c
 ## See also
 
 - [Learn JavaScript](https://learnjavascript.online/)
-  - : An excellent resource for aspiring web developers — Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by automated assessment. The first 40 lessons are free, and the complete course is available for a small one-time payment.
+  - : An excellent resource for aspiring web developers — Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by automated assessment. The first 77 lessons are free, and the complete course is available for a small one-time payment.
